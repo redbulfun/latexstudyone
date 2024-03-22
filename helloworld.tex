@@ -1,6 +1,5 @@
 \documentclass[12pt, letterpaper]{article}
 \usepackage{graphicx}
-\graphicspath{{GEEJj_kXYAImdwn/}}
 \title{My first LaTeX document}
 \author{Tom Cat\thanks{Funded by myself}}
 \date{March 2024}
@@ -14,11 +13,16 @@ discoveries in \underline{science}
 were made by \textbf{\textit{accident}}.
 Some of the greatest \emph{discoveries} in science 
 were made by accident.
-\includegraphics[width=0.5\textwidth]{GEEJj_kXYAImdwn}
 
 \textit{Some of the greatest \emph{discoveries} 
 in science were made by accident.}
 
-\textbf{Some of the greatest \emph{discoveries} 
-in science were made by accident.}
+%this line here is a comment. it will not be typeset in the document
+
+\begin{itemize}
+    \item The individual entries are indicated with a black dot, a so-called bullet.
+    \item The text in the entries may be of any length.
+\end{itemize}
+
+\includegraphics[width=0.5\textwidth]{GEEJj_kXYAImdwn}
 \end{document}
