@@ -1,0 +1,19 @@
+# Fdb version 4
+["pdflatex"] 1711126824 "/mnt/d/latextext_test/latextext_tables.tex" "latextext_tables.pdf" "latextext_tables" 1711126824 0
+  "/etc/texmf/web2c/texmf.cnf" 1711006628 475 c0e671620eb5563b2130f56340a5fde8 ""
+  "/mnt/d/latextext_test/latextext_tables.tex" 1711126824 409 c25f8836059ed6854fc7ec9f3b12c7f0 ""
+  "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1248133631 35752 024fb6c41858982481f6968b5fc26508 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/base/article.cls" 1667332637 20144 d5ecf0a5140c8d8d8b72cbe86e320eff ""
+  "/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo" 1667332637 8448 c33a4e1cb35cee9b33c2b21033b73e39 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def" 1673989714 30429 213676d4c7327a21d91ddaed900e7b81 ""
+  "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1681034085 39561 34c98e380bf7c7201ee6a7909aff625a ""
+  "/usr/share/texmf/web2c/texmf.cnf" 1681034085 39561 34c98e380bf7c7201ee6a7909aff625a ""
+  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1711006635 125915 807ff72f6023b33a59c427bfd156a3d1 ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1711006645 6475504 e9f840c92489173c715a2fdcf828b459 ""
+  "latextext_tables.aux" 1711126824 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "latextext_tables.tex" 1711126824 409 c25f8836059ed6854fc7ec9f3b12c7f0 ""
+  (generated)
+  "latextext_tables.aux"
+  "latextext_tables.log"
+  "latextext_tables.pdf"
+  (rewritten before read)
