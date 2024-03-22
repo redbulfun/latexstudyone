@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2024.3.21)  23 MAR 2024 00:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2024.3.21)  23 MAR 2024 00:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -87,32 +87,32 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 7.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 12.
+(Font)              <12> on input line 18.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 12.
+(Font)              <8> on input line 18.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 12.
+(Font)              <6> on input line 18.
 <GEEJj_kXYAImdwn.jpg, id=1, 2055.68pt x 1154.3125pt>
 File: GEEJj_kXYAImdwn.jpg Graphic file (type jpg)
 <use GEEJj_kXYAImdwn.jpg>
-Package pdftex.def Info: GEEJj_kXYAImdwn.jpg  used on input line 35.
+Package pdftex.def Info: GEEJj_kXYAImdwn.jpg  used on input line 41.
 (pdftex.def)             Requested size: 195.0pt x 109.4847pt.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./GEEJj_kXYAImdwn.jpg>] (./helloworld.aux) ) 
 Here is how much of TeX's memory you used:
- 1323 strings out of 478051
- 21929 string characters out of 5840943
- 1853330 words of memory out of 5000000
- 21484 multiletter control sequences out of 15000+600000
- 517922 words of font info for 50 fonts, out of 8000000 for 9000
+ 1326 strings out of 478051
+ 21970 string characters out of 5840943
+ 1854330 words of memory out of 5000000
+ 21486 multiletter control sequences out of 15000+600000
+ 518530 words of font info for 52 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  57i,11n,62p,240b,299s stack positions out of 10000i,1000n,20000p,200000b,200000s
- </home/tom_cat/.texlive2022/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm0700.600pk> </home/tom_cat/.texlive2022/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on helloworld.pdf (1 page, 708087 bytes).
+ </home/tom_cat/.texlive2022/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm0700.600pk> </home/tom_cat/.texlive2022/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on helloworld.pdf (1 page, 721534 bytes).
 PDF statistics:
- 59 PDF objects out of 1000 (max. 8388607)
- 36 compressed objects within 1 object stream
+ 64 PDF objects out of 1000 (max. 8388607)
+ 39 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
